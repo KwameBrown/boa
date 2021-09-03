@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "who are you"
+read name
+echo "Welcome $name"
+echo "where are you from"
+read name
+echo "i love $name"
